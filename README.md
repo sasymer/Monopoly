@@ -1,5 +1,7 @@
 # Monopoly
 
+To play, open Game.java and run.
+
 Created a computer version of the game Monopoly with a partner, using Java.
 My portion includes 1500+ lines of code.
 
