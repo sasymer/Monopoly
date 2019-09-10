@@ -2,7 +2,7 @@
 
 To play, open Game.java and run.
 
-Created a computer version of the game Monopoly with a partner, using Java.
+Created a computer version of the game Monopoly with a partner, using Java. This was completed from scratch.
 My portion includes 1500+ lines of code.
 
 I largely handled the back-end and algorithmic aspects of the game, while my partner focused on 
